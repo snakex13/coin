@@ -1,0 +1,9 @@
+Building snakeXcoin
+
+See doc/readme-qt.rst for instructions on building snakeXcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of snakeXcoin.
+
+See doc/build-*.txt for instructions on building snakeXcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of snakeXcoin.
